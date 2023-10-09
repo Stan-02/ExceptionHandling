@@ -1,0 +1,35 @@
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.AssemblyReference.cache
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+C:\Users\G&E Client 102\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.AssemblyReference.cache
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\RYZEN\Desktop\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.AssemblyReference.cache
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\Christian\Downloads\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
